@@ -5,7 +5,7 @@ The project aims to provide accurate and insightful predictions regarding energy
 ### Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/ProjectPolicy.git
+git clone https://github.com/your-username/PowerCastMY.git
 ```
 
 ### Update the latest version from GitHub to local devices
