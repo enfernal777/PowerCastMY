@@ -1,6 +1,6 @@
 # PowerCastMY
-## Forecasting Sectoral Energy Usage in Malaysia
-
+## About
+The project aims to provide accurate and insightful predictions regarding energy demand within various sectors, and to help everyone understand the critical role energy plays in our daily lives and industries
 
 ### Clone the repository to your local machine:
 
